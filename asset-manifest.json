@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/spencermovies/static/css/main.ec640903.chunk.css",
+    "main.js": "/spencermovies/static/js/main.7cd58ebd.chunk.js",
+    "main.js.map": "/spencermovies/static/js/main.7cd58ebd.chunk.js.map",
+    "runtime-main.js": "/spencermovies/static/js/runtime-main.e5fd46ee.js",
+    "runtime-main.js.map": "/spencermovies/static/js/runtime-main.e5fd46ee.js.map",
+    "static/css/2.20e4572c.chunk.css": "/spencermovies/static/css/2.20e4572c.chunk.css",
+    "static/js/2.809b02c7.chunk.js": "/spencermovies/static/js/2.809b02c7.chunk.js",
+    "static/js/2.809b02c7.chunk.js.map": "/spencermovies/static/js/2.809b02c7.chunk.js.map",
+    "index.html": "/spencermovies/index.html",
+    "precache-manifest.0bf7ae6928aa2e653129a8035e1d4c88.js": "/spencermovies/precache-manifest.0bf7ae6928aa2e653129a8035e1d4c88.js",
+    "service-worker.js": "/spencermovies/service-worker.js",
+    "static/css/2.20e4572c.chunk.css.map": "/spencermovies/static/css/2.20e4572c.chunk.css.map",
+    "static/css/main.ec640903.chunk.css.map": "/spencermovies/static/css/main.ec640903.chunk.css.map",
+    "static/js/2.809b02c7.chunk.js.LICENSE.txt": "/spencermovies/static/js/2.809b02c7.chunk.js.LICENSE.txt",
+    "static/media/Banner.module.css": "/spencermovies/static/media/bg-placeholder.8b10f90b.jpg",
+    "static/media/mdblogo.png": "/spencermovies/static/media/mdblogo.9b2af70f.png",
+    "static/media/slick-theme.css": "/spencermovies/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5fd46ee.js",
+    "static/css/2.20e4572c.chunk.css",
+    "static/js/2.809b02c7.chunk.js",
+    "static/css/main.ec640903.chunk.css",
+    "static/js/main.7cd58ebd.chunk.js"
+  ]
+}
