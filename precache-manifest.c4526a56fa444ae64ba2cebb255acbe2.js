@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8f7c52121371382192fe31361ea2209",
+    "revision": "0b54f584f388232c064c08cd501a28ec",
     "url": "/spencermovies/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spencermovies/static/css/2.20e4572c.chunk.css"
   },
   {
-    "revision": "bf7f78215ea834f7f4ff",
-    "url": "/spencermovies/static/css/main.ec640903.chunk.css"
+    "revision": "1c761004759da3abd464",
+    "url": "/spencermovies/static/css/main.0ce80d32.chunk.css"
   },
   {
     "revision": "3430f2b5559f0d2d6135",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spencermovies/static/js/2.809b02c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf7f78215ea834f7f4ff",
+    "revision": "1c761004759da3abd464",
     "url": "/spencermovies/static/js/main.7cd58ebd.chunk.js"
   },
   {
