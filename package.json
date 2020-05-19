@@ -20,7 +20,7 @@
     "redux-thunk": "^2.3.0",
     "slick-carousel": "^1.8.1"
   },
-  "homepage": "https://spencerkk.github.io/spencermovies/",
+  "homepage": "https://spencerkk.github.io/spencermovies",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
