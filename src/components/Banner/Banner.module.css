@@ -1,0 +1,47 @@
+.banner {
+  margin: 0 auto;
+  text-align: center;
+  font-family: Roboto;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(220, 20, 60, 0.53),
+      rgba(0, 0, 0, 0.62)
+    ),
+    url('../../img/bg-placeholder.jpg');
+  background-size: cover;
+  height: 24em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.banner h2 {
+  width: 75%;
+  margin: 0 auto;
+  font-size: 2em;
+  line-height: 1.4em;
+  color: #fff;
+  font-weight: 700;
+}
+
+@media only screen and (min-width: 600px) {
+  .banner {
+    height: 24em;
+  }
+
+  .banner h2 {
+    color: white;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  .banner {
+    width: 75%;
+    height: 25em;
+  }
+
+  .banner h2 {
+    font-size: 2.5em;
+    text-align: left;
+  }
+}

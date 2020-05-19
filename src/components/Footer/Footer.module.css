@@ -1,0 +1,16 @@
+.footerBody {
+  color: white;
+  margin-top: 5em;
+  text-align: center;
+  background: #2b2b2b;
+  padding: 2em 0;
+  margin-bottom: 0;
+}
+
+.footerBody h2 {
+  margin: 0;
+}
+
+#mdblogo {
+  width: 10em;
+}
