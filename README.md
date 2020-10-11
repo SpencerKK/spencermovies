@@ -12,5 +12,5 @@ This React / Redux project is a movie browsing site whose design was influenced 
 - react-slick
 
 ## Preview
-![preview gif](https://media.giphy.com/media/NyQwZOSCD8Tk7xnJjO/giphy.gif)
+![preview gif](./src/img/preview-gif.gif)
 
